@@ -226,5 +226,3 @@ if check_net && [ $net_dev != "ethblack" ]; then
 fi
 
 echo "## Ready to reboot -f!!"
-
-~
